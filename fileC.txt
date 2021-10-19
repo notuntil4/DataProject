@@ -1,3 +1,6 @@
 Some lines
 of text
 in this file
+1
+2
+3
